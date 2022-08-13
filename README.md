@@ -11,4 +11,6 @@ This was my first Max project, and there is still much to be desired, but I hope
 1. Under Options>File Preferences, click the \+\ in the bottom left-hand corner to add a path. Here you can navigate to the Image Assets folder, which is where the pictures of the concert halls are kept.
 2. Unlock, select the pictslider object (the big rectangle in the middle), navigate to the inspector/Image, and choose your background image. This can be a groundplan of the stage. You may have to rescale this middle section; I want to make this process more automated, but this is where it is for now.
 
-The documentation should explain the rest.
+The documentation should explain the rest in terms of using the interface.
+
+To build the application, you will want to use the max project. One day I'll get around to explaining how to do that. In the meantime, make art, not noise ;)
